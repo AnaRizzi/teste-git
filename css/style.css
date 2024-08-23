@@ -60,7 +60,7 @@ button:active{
 
 #conteudo .titulo{
 	max-width: 440px; 
-	background-color: rgba(255,255,255,0.7);
+	background-color: var(--bege);
 	text-align: center;
 	margin: auto;
 	margin-top: 50px;
