@@ -1,4 +1,4 @@
-<b>Receita Surpresa</b>
+<b>Receita Surpresa porra nenhuma</b>
 
 Site que exibe uma receita gerada aleatoriamente.
 
